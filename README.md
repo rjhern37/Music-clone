@@ -22,7 +22,7 @@ This a small app that was made with Paper.js which allows the user to jam out by
 No need to install dependencies, simply clone and enjoy!
 
 ## Usage
-<img alt="app visual demo" src="assets/Music-clone.gif"/>
+<img alt="app visual demo" src="assets/Music-cloneGify.gif"/>
 
 ## Test
 There are currently no tests for this app. 
