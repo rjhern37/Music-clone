@@ -7,7 +7,7 @@ Music-clone
 https://github.com/rjhern37/music-clone
 
 # Deployed Link
-https://github.com/rjhern37/Music-clone.git
+https://rjhern37.github.io/Music-clone/
 
 ## Description 
 This a small app that was made with Paper.js which allows the user to jam out by playing music with their keyboard! Each key plays a different sound and also generates a random colored circle to a random point on the screen. Give it a try and let me know what you think.
